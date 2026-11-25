@@ -1,0 +1,6 @@
+{
+  "name": "WILD ARENA",
+  "description": "Ultimate 3D Online Fighting RPG with 22 unique fighters, 16 escalating bosses, 8 natural 3D arenas, missions, and real-time Socket.IO multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
